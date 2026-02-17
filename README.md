@@ -1,4 +1,4 @@
-# 🎠 Yordles Carousel
+# 🎠 Yordles Carrossel
 
 Projeto de estudo desenvolvido com HTML e CSS com foco na criação de um carrossel 3D animado utilizando transformações e animações no CSS.
 
